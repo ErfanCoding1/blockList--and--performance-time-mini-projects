@@ -3,7 +3,7 @@ from functools import wraps
     
 passwords = {'jack':'12248','john':'95624','sara':'52874','chris':'32025'}
     
-blocklist_= {'jack','chris'}
+blocklist_ = {'jack','chris'}
     
     
     
